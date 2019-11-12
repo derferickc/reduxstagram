@@ -1,6 +1,6 @@
 # Learn Redux
 
-A simple React + Redux implementation. This will be turned into a free video series once the app is totally fleshed out.
+A simple React + Redux implementation that displays a grid of sets of images + captions. Upon clicking on the images, you are redirected to a page with details of the single post where you can also add or remove them.
 
 ## Running
 
